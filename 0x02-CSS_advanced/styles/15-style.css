@@ -130,10 +130,6 @@ template {
 /*# sourceMappingURL=normalize.min.css.map */
 
 
-* {
-	box-sizing: border-box;
-}
-
 :root {
 	/* Colors */
 	--color-primary: #d73953;
@@ -167,6 +163,11 @@ template {
 	--section-tagline-transform: uppercase;
 	--section-title-margin: 0;
 	--section-title-color: var(--color-black);
+}
+
+
+* {
+	box-sizing: border-box;
 }
 
 
