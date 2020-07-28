@@ -179,7 +179,6 @@ template {
   --nav-item-display: inline-block;
   --nav-item-margin: 0 0 3rem 0;
   --nav-item-link-hover: var(--color-primary);
-
 }
 
 
@@ -211,7 +210,7 @@ body {
 .nav {
   margin: 0;
   padding: 0;
-  text-decoration: none;
+  list-style: none;
   text-align: center;
 }
 
@@ -226,13 +225,13 @@ body {
 }
 
 
-.nav-link {
+.nav .nav-link {
   display: block;
   padding: 0.5rem 1rem;
 }
 
 
-.nav .nav-link {
+.nav .nav-link:hover {
   color: var(--nav-item-link-hover);
 }
 
