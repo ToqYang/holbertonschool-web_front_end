@@ -295,14 +295,14 @@ ul[class*="row"] {
 
 
 .col-1-3 {
-  width: 0.3333em;
+  width: 33.33%;
   float: left;
   padding: 0.5rem;
 }
 
 
 .col-1-2 {
-  width: 0.5em;
+  width: 50%;
   float: left;
   padding: 0.5rem;
 }
