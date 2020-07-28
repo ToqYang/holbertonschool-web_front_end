@@ -424,7 +424,7 @@ a:active {
 }
 
 
-.card-title .card-work a:after {
+.card-title .card-work a::after {
   position: absolute;
   top: 0;
   left: 0;
