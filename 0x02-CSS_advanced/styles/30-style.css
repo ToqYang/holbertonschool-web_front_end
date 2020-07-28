@@ -293,11 +293,6 @@ body {
 }
 
 
-.card-work:hover .card-title {
-  opacity: 1;
-}
-
-
 a:link {
 	color: var(--text-color);
 	text-decoration: none;
@@ -408,7 +403,7 @@ a:active {
 }
 
 
-.card-inner:hover {
+.card-work:hover .card-inner {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
@@ -436,6 +431,11 @@ a:active {
   right: 0;
   bottom: 0;
   content: '';
+}
+
+
+.card-work:hover .card-title {
+  opacity: 1;
 }
 
 
