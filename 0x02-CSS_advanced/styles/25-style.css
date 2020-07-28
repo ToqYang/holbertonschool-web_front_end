@@ -193,8 +193,6 @@ template {
   --button-hover-color: var(--color-white);
   --button-hover-text-decoration: none;
   --button-hover-background: var(--color-primary);
-  /* Dark Theme */
-  --button-color: var(--color-white);
 }
 
 
@@ -287,7 +285,7 @@ a:active {
 }
 
 
-[class*="button"] {
+.button {
   display: var(--button-display);
   padding: var(--button-padding);
   border-style: var(--button-border);
@@ -297,12 +295,11 @@ a:active {
 }
 
 
-[class*="button"]:hover {
+.button:hover {
   color: var(--button-hover-color);
   text-decoration: var(--button-hover-text-decoration);
   background-color: var(--button-hover-background);
 }
-
 
 
 .visually-hidden {
@@ -438,5 +435,5 @@ h1, h2, h3, h4, h5, h6 {
   --text-color: var(--color-white);
   --section-title-color: var(--color-white);
   background-color: var(--color-black);
-  color: var(--button-color);
+  --button-color: var(--color-white);
 }
