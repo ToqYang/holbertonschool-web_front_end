@@ -277,7 +277,7 @@ body {
 }
 
 
-.nav .nav-link:before {
+.nav .nav-link::before {
   content: '';
   position: absolute;
   top: 0;
@@ -288,7 +288,7 @@ body {
 }
 
 
-.nav .nav-item:hover .nav-link:before {
+.nav .nav-item:hover .nav-link::before {
   background-color: var(--color-primary);
   width: 100%;
 }
