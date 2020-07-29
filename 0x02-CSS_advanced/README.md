@@ -4,8 +4,6 @@
 
 
 
-
-
 # :colombia: 0x01. Developer tools
 - Selectors, properties, and values
 - The difference between block and inline styling
@@ -19,6 +17,10 @@
 - How to animate elements in CSS
 - How to transform (2d, 3d) elements
 - What vendor prefixes are
+
+## Webpage
+![Final project](result.png)
+
 ## Prerequisites
 - Editors: vi, vim, emacs, VSCode, Atom
 - All your files will be interpreted on Chrome (version 78.x)
@@ -27,11 +29,11 @@
 - A README.md file, at the root of the folder of the project, is mandatory
 - Your code should be W3C compliant and validate with W3C-Validator
 ## Contributing
---Santiago Yanguas - Holberton Student                                          
+--Santiago Yanguas - Holberton Student
 ## Versioning
 For my learning of web dev in Holberton School
 ## Authors
----Santiago Yanguas  946@holbertonshcool.com                                   
+---Santiago Yanguas  946@holbertonshcool.com
 ## Files
 
 |             Files               |             Description                  |
