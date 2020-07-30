@@ -1,6 +1,6 @@
 /* Loop with classes */
 
-@for $i from 1 through 5 {
+@for $i from 1 through 4 {
 	.col-#{$i} {
 		@if $i == 1 {
 			width: 100%;
