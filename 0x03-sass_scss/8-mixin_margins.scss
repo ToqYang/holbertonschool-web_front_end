@@ -1,13 +1,13 @@
 /* Margin mixin  */
-$body-margin: 10px;
-$body-margin: 15px;
+@mixin margins($navi-margin) {
+  margin-left: $navi-margin;
+  margin-right: $navi-margin;
+}
 
 body {
-  margin-left: $body-margin;
-  margin-right: $body-margin;
+  @include margins(10px);
 }
 
 div {
-  margin-left: $body-margin;
-  margin-right: $body-margin;
+  @include margins(15px);
 }
