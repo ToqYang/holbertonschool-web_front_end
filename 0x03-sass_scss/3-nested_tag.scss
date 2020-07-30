@@ -1,0 +1,12 @@
+/* Nested tag  */
+$not_marpad: 0px;
+$body_p: 10px;
+
+body {
+  margin: $not_marpad;
+  padding: $not_marpad;
+
+  p {
+    margin: $body_p;
+  }
+}
