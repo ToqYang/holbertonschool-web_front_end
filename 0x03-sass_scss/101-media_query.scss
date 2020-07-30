@@ -1,0 +1,12 @@
+/* Media querys */
+$font-default: 20px;
+$query-font-title: 14px;
+$query-max-width: 320px;
+
+h1 {
+  font-size: $font-default;
+
+  @media screen and (max-width: $query-max-width) {
+      font-size: $query-font-title;
+  }
+}
