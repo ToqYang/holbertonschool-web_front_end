@@ -1,0 +1,11 @@
+/* Nested child */
+$gray-color: #3d3d3d;
+$red-color: #ff0000;
+
+body {
+  color: $gray-color;
+
+  > .red {
+    color: $red-color;
+  }
+}
