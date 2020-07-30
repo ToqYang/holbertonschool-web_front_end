@@ -1,0 +1,16 @@
+/* Nested deeeper */
+$tile-default: 14px;
+$title-h1: 16px;
+$title-small: 12px;
+
+body {
+  font-size: $tile-default;
+
+  h1 {
+    font-size: $title-h1;
+  }
+
+  h1.smaller {
+    font-size: $title-small;
+  }
+}
