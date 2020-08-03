@@ -1,6 +1,6 @@
 0x03. Sass & Scss
 <p>
-<img width="260" height="170" src=https://image.flaticon.com/icons/svg/919/919831.svg" align="right" >
+<img width="260" height="170" src="https://image.flaticon.com/icons/svg/919/919831.svg" align="right" >
 </p>
 
 
