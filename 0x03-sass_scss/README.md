@@ -1,11 +1,10 @@
-0x03. Sass & Scss
 <p>
 <img width="260" height="170" src="https://image.flaticon.com/icons/svg/919/919831.svg" align="right" >
 </p>
 
 
 
-# :colombia: 0x01. Developer tools
+# :colombia: 0x03. Sass & Scss
 - What Sass means
 - How to write Sass & Scss file
 - What is the difference between Sass and Scss
