@@ -379,11 +379,7 @@
     flex-wrap: wrap;
   }
 
-  /* Section ABOUT US
-      ============================= */
-
-  /* Section SERVICES
-      ============================= */
+  /* Section ABOUT US ============================= */
 
   .section-about-us [class^="col-"] {
     align-self: center;
