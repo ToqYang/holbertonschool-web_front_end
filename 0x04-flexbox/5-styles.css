@@ -255,9 +255,9 @@
 
   .header {
     padding: var(--header-padding);
-         position: relative;
-         z-index: 3;
-         background: transparent !important;
+    position: relative;
+    z-index: 3;
+    background: transparent !important;
   }
 
   /* Footer
