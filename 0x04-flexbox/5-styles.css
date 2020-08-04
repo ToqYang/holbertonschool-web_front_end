@@ -59,7 +59,6 @@
     --section-footer-padding: 3rem 0 0;
     --section-footer-align: center;
 
-
     /** HEADER **/
     --header-padding: 4rem 0 0;
 
@@ -253,9 +252,9 @@
 
   .header {
     padding: var(--header-padding);
-    position: relative;
-    z-index: 3;
-    background: transparent !important;
+         position: relative;
+         z-index: 3;
+         background: transparent !important;
   }
 
   .header-container {
