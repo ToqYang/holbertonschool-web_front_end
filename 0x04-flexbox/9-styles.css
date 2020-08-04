@@ -215,6 +215,10 @@
     letter-spacing: var(--nav-item-letter-spacing);
   }
 
+  .nav .nav-item + .nav-item {
+    margin: var(--nav-item-margin);
+  }
+
   .nav .nav-link {
     display: block;
     padding: 0.5rem 0;
@@ -240,10 +244,6 @@
   .nav .nav-item:hover .nav-link::before {
     background-color: var(--color-primary);
     width: 100%;
-  }
-
-  .nav .nav-item + .nav-item {
-    margin: var(--nav-item-margin);
   }
 
   /* Header
