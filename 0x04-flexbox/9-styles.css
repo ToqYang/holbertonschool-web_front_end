@@ -382,6 +382,9 @@
   /* Section ABOUT US
       ============================= */
 
+  /* Section SERVICES
+      ============================= */
+
   .section-about-us [class^="col-"] {
     align-self: center;
   }
