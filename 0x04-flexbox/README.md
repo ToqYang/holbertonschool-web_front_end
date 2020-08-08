@@ -51,4 +51,4 @@ For my learning of web dev in Holberton School
 | **13-article.html, 13-styles.css**   | The meta list inside the aside section                        |
 | **14-article.html, 14-styles.css**   | Add the share social icons                                    |
 | **100-article.html, 100-styles.css** | Finalizing the cherry on the cake that is the article         |
-| **101-style.css**                    | Timemachine boxes!                                            |
+| **101-style.css, 101-index.html**    | Timemachine boxes!                                            |

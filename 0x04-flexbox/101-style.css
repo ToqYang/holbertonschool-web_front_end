@@ -1,0 +1,55 @@
+:root {
+  --font-size: 4rem;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: baseline;
+  width: 1300px;
+  height: 200px;
+}
+
+.box {
+  display: flex;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+.box1, .box5 {
+  font-size: calc(var(--font-size) * 0.7);
+  width: 10%;
+  height: 43%;
+}
+
+.box2, .box4 {
+  font-size: calc(var(--font-size));
+  width: 16%;
+  height: 60%;
+}
+
+/**  Box property **/
+.box1 {
+  background-color: aqua;
+}
+
+.box2 {
+  background-color: rebeccapurple;
+}
+
+.box3 {
+  font-size: calc(var(--font-size) * 2);
+  width: 30%;
+  height: 100%;
+  background-color: yellow;
+}
+
+.box4 {
+  background-color: red;
+}
+
+.box5 {
+  background-color: royalblue;
+}
