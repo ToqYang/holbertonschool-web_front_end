@@ -27,11 +27,12 @@ For my learning in Holberton School
 
 ## Files
 
-| directories              | Description                                                                 |
-| ------------------------ | --------------------------------------------------------------------------- |
-| **0x00-html_advanced**   | How to use HTML tags to structure a web page. No CSS, no styling            |
-| **0x01-developer_tools** | How to use Developer Tools in your browser:Chrome, Firefox, Safari and Edge |
-| **0x02-CSS_advanced**    | How to use CSS to structure a web page                                      |
-| **0x03-sass_scss**       | Making css with scripts                                                     |
-| **0x04-flexbox**         | using flexbox to layout an HTML file                                        |
-| **0x05-form**            | Learn to work with                                                          |
+| directories                | Description                                                                 |
+| -------------------------- | --------------------------------------------------------------------------- |
+| **0x00-html_advanced**     | How to use HTML tags to structure a web page. No CSS, no styling            |
+| **0x01-developer_tools**   | How to use Developer Tools in your browser:Chrome, Firefox, Safari and Edge |
+| **0x02-CSS_advanced**      | How to use CSS to structure a web page                                      |
+| **0x03-sass_scss**         | Making css with scripts                                                     |
+| **0x04-flexbox**           | using flexbox to layout an HTML file                                        |
+| **0x05-form**              | Learn to work with                                                          |
+| **0x06-Responsive design** | Wireframe of the Techium project - mobile version                           |
