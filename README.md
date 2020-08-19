@@ -36,3 +36,4 @@ For my learning in Holberton School
 | **0x04-flexbox**           | using flexbox to layout an HTML file                                        |
 | **0x05-form**              | Learn to work with                                                          |
 | **0x06-Responsive design** | Wireframe of the Techium project - mobile version                           |
+| **0x07-Accessibility**     | Provide for a wide range of users with disabilities                         |
