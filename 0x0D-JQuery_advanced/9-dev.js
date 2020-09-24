@@ -1,4 +1,4 @@
-// Pagination
+// Wrap/unwrap
 function createSearchForm() {
   mehtml =  '<form>\n<input type="text">\n<input type="submit" value="Submit">\n</form>\n'
   mehtml += '<ul class="articles loading true"></ul>\n<ul class="pagnum" style="display:flex; flex-direction:row; list-style: none;"></ul>'
