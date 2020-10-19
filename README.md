@@ -2,7 +2,7 @@
 <img width="260" height="170" src="https://image.flaticon.com/icons/svg/1137/1137130.svg" align="right" >
 </p>
 
-# :colombia: # holbertonschool-web_front_end
+# :colombia: holbertonschool-web_front_end
 
 ## Prerequisites
 
